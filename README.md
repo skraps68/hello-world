@@ -1,2 +1,4 @@
 # hello-world
-FIrst GitHub repo
+First GitHub repo.
+Making edits.
+Blah blah blah...
